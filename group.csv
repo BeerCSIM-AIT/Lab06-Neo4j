@@ -1,0 +1,101 @@
+"id","title","groupBanner","createdBy","status","details","createdAt","updatedAt"
+"1","Hatity",NULL,"219","new","Aliquam erat volutpat.","2021-08-17 22:45:03",NULL
+"2","Stim",NULL,"163","new",NULL,"2021-08-03 06:49:57",NULL
+"3","Gembucket",NULL,"31","new","Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.","2021-08-20 23:46:52",NULL
+"4","Cardify",NULL,"244","approved","In congue. Etiam justo.","2021-07-05 02:00:01","2021-07-07 02:00:01"
+"5","Treeflex",NULL,"72","approved",NULL,"2021-07-17 08:59:50","2021-07-22 08:59:50"
+"6","Subin",NULL,"289","new","Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.","2021-07-31 13:14:34",NULL
+"7","Lotstring",NULL,"1","new",NULL,"2021-07-31 21:14:11",NULL
+"8","Overhold",NULL,"27","new","Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.","2021-07-04 16:02:57",NULL
+"9","Stim","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","118","new",NULL,"2021-08-20 09:34:43",NULL
+"10","Sonair",NULL,"211","blocked",NULL,"2021-07-01 02:46:00","2021-07-06 02:46:00"
+"11","Tempsoft",NULL,"196","approved","Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.","2021-07-24 07:00:23","2021-07-28 07:00:23"
+"12","Fixflex",NULL,"236","new",NULL,"2021-08-06 23:48:25",NULL
+"13","Stringtough","http://dummyimage.com/1640x856.png/cc0000/ffffff","165","active",NULL,"2021-07-17 14:59:59","2021-07-21 14:59:59"
+"14","Zamit",NULL,"226","active","Vivamus vestibulum sagittis sapien.","2021-07-10 16:14:10","2021-07-14 16:14:10"
+"15","Tres-Zap","http://dummyimage.com/1640x856.png/ff4444/ffffff","291","approved",NULL,"2021-08-16 11:47:10","2021-08-21 11:47:10"
+"16","Flowdesk",NULL,"276","blocked","Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.","2021-07-13 05:37:31","2021-07-16 05:37:31"
+"17","Matsoft",NULL,"171","active",NULL,"2021-07-24 07:05:55","2021-07-27 07:05:55"
+"18","Fintone","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","131","new","Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.","2021-08-14 10:43:48",NULL
+"19","Ventosanzap",NULL,"282","active",NULL,"2021-07-31 23:23:21","2021-08-01 23:23:21"
+"20","Voltsillam",NULL,"57","active","Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.","2021-08-17 17:45:04","2021-08-20 17:45:04"
+"21","Bamity","http://dummyimage.com/1640x856.png/dddddd/000000","50","active","Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.","2021-08-17 13:56:44","2021-08-19 13:56:44"
+"22","Kanlam","http://dummyimage.com/1640x856.png/dddddd/000000","82","new","Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.","2021-08-22 21:22:06",NULL
+"23","Span",NULL,"52","blocked",NULL,"2021-08-19 19:19:07","2021-08-24 19:19:07"
+"24","Konklab",NULL,"69","active",NULL,"2021-07-08 22:13:22","2021-07-11 22:13:22"
+"25","Zathin",NULL,"29","active","Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.","2021-07-24 19:07:12","2021-07-29 19:07:12"
+"26","Wrapsafe","http://dummyimage.com/1640x856.png/ff4444/ffffff","169","blocked",NULL,"2021-07-06 10:33:35","2021-07-10 10:33:35"
+"27","Trippledex",NULL,"161","approved",NULL,"2021-07-24 07:28:39","2021-07-26 07:28:39"
+"28","Cookley",NULL,"9","active",NULL,"2021-07-02 11:08:23","2021-07-06 11:08:23"
+"29","Otcom",NULL,"279","blocked","Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.","2021-07-13 12:09:34","2021-07-14 12:09:34"
+"30","Namfix","http://dummyimage.com/1640x856.png/dddddd/000000","99","active",NULL,"2021-07-09 20:07:06","2021-07-11 20:07:06"
+"31","Y-find",NULL,"241","active","Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.","2021-08-06 22:32:19","2021-08-07 22:32:19"
+"32","Cardify",NULL,"157","blocked",NULL,"2021-08-21 20:49:03","2021-08-26 20:49:03"
+"33","Voyatouch","http://dummyimage.com/1640x856.png/cc0000/ffffff","134","new",NULL,"2021-07-29 07:40:53",NULL
+"34","Asoka",NULL,"297","blocked","Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.","2021-08-17 21:13:28","2021-08-20 21:13:28"
+"35","Overhold","http://dummyimage.com/1640x856.png/cc0000/ffffff","54","approved","Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.","2021-07-30 01:31:20","2021-08-02 01:31:20"
+"36","Zathin",NULL,"48","new","Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.","2021-07-23 08:36:35",NULL
+"37","Vagram",NULL,"86","active","In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio.","2021-08-05 03:07:36","2021-08-10 03:07:36"
+"38","Mat Lam Tam",NULL,"100","active","Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst.","2021-08-02 10:30:59","2021-08-07 10:30:59"
+"39","Stronghold",NULL,"263","new",NULL,"2021-08-19 03:16:25",NULL
+"40","Voyatouch","http://dummyimage.com/1640x856.png/ff4444/ffffff","136","new","Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio.","2021-08-03 05:03:40",NULL
+"41","Cookley","http://dummyimage.com/1640x856.png/ff4444/ffffff","252","active",NULL,"2021-07-17 19:25:07","2021-07-18 19:25:07"
+"42","Flexidy",NULL,"248","active",NULL,"2021-08-09 19:46:49","2021-08-12 19:46:49"
+"43","Y-Solowarm",NULL,"137","approved",NULL,"2021-07-05 09:24:36","2021-07-08 09:24:36"
+"44","Rank",NULL,"24","active",NULL,"2021-07-11 05:47:18","2021-07-15 05:47:18"
+"45","Opela","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","145","approved",NULL,"2021-07-22 18:47:06","2021-07-23 18:47:06"
+"46","Transcof",NULL,"72","active","In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.","2021-08-19 09:13:42","2021-08-21 09:13:42"
+"47","Voltsillam","http://dummyimage.com/1640x856.png/cc0000/ffffff","41","new",NULL,"2021-07-15 21:42:26",NULL
+"48","Treeflex","http://dummyimage.com/1640x856.png/ff4444/ffffff","129","approved",NULL,"2021-07-18 03:12:16","2021-07-20 03:12:16"
+"49","Regrant","http://dummyimage.com/1640x856.png/ff4444/ffffff","257","approved",NULL,"2021-07-16 15:53:55","2021-07-20 15:53:55"
+"50","Tampflex",NULL,"90","new","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.","2021-08-03 14:15:34",NULL
+"51","Biodex",NULL,"124","blocked",NULL,"2021-08-23 17:37:48","2021-08-25 17:37:48"
+"52","Daltfresh","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","287","blocked","Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.","2021-07-18 19:42:54","2021-07-22 19:42:54"
+"53","Lotstring","http://dummyimage.com/1640x856.png/cc0000/ffffff","80","blocked",NULL,"2021-08-05 19:53:23","2021-08-06 19:53:23"
+"54","Zathin",NULL,"53","approved","Donec semper sapien a libero. Nam dui.","2021-07-27 18:04:58","2021-07-30 18:04:58"
+"55","Y-Solowarm",NULL,"249","new","Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim.","2021-07-16 16:34:26",NULL
+"56","Sonsing",NULL,"109","active","Nulla nisl.","2021-08-23 12:31:38","2021-08-28 12:31:38"
+"57","Zamit",NULL,"182","active","Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.","2021-07-30 09:02:16","2021-08-01 09:02:16"
+"58","Home Ing",NULL,"110","approved","Donec semper sapien a libero.","2021-08-22 19:35:12","2021-08-25 19:35:12"
+"59","Namfix",NULL,"70","blocked",NULL,"2021-07-23 23:37:33","2021-07-24 23:37:33"
+"60","Daltfresh","http://dummyimage.com/1640x856.png/ff4444/ffffff","65","approved","Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.","2021-07-08 18:57:20","2021-07-10 18:57:20"
+"61","Transcof",NULL,"209","blocked","Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum.","2021-07-17 20:50:28","2021-07-19 20:50:28"
+"62","Regrant",NULL,"39","new","Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.","2021-07-19 14:11:36",NULL
+"63","Trippledex",NULL,"189","new","Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.","2021-07-05 15:53:16",NULL
+"64","Rank",NULL,"162","approved",NULL,"2021-08-23 12:48:45","2021-08-26 12:48:45"
+"65","Home Ing","http://dummyimage.com/1640x856.png/ff4444/ffffff","80","approved",NULL,"2021-07-17 21:25:02","2021-07-19 21:25:02"
+"66","Stronghold",NULL,"154","blocked",NULL,"2021-07-07 17:29:51","2021-07-12 17:29:51"
+"67","Keylex",NULL,"274","active","Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.","2021-07-15 00:25:41","2021-07-18 00:25:41"
+"68","Zaam-Dox","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","80","active",NULL,"2021-08-07 14:00:25","2021-08-11 14:00:25"
+"69","Duobam",NULL,"247","blocked",NULL,"2021-07-26 15:29:06","2021-07-28 15:29:06"
+"70","Zaam-Dox",NULL,"236","new",NULL,"2021-08-12 22:48:35",NULL
+"71","Ventosanzap","http://dummyimage.com/1640x856.png/ff4444/ffffff","290","new",NULL,"2021-08-18 23:02:38",NULL
+"72","Cardify","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","36","active","Proin risus. Praesent lectus.","2021-08-05 09:18:06","2021-08-07 09:18:06"
+"73","Tin","http://dummyimage.com/1640x856.png/dddddd/000000","166","blocked","Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum.","2021-08-03 05:53:56","2021-08-05 05:53:56"
+"74","Veribet",NULL,"218","new","Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.","2021-07-26 21:41:16",NULL
+"75","Matsoft",NULL,"27","active",NULL,"2021-08-18 09:50:55","2021-08-20 09:50:55"
+"76","Zathin",NULL,"294","active","Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.","2021-07-29 12:25:18","2021-08-03 12:25:18"
+"77","Cardify","http://dummyimage.com/1640x856.png/dddddd/000000","154","blocked","Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.","2021-08-04 21:33:14","2021-08-05 21:33:14"
+"78","Namfix","http://dummyimage.com/1640x856.png/dddddd/000000","200","blocked","Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.","2021-08-05 07:52:09","2021-08-08 07:52:09"
+"79","Ventosanzap",NULL,"298","blocked",NULL,"2021-07-02 14:36:18","2021-07-07 14:36:18"
+"80","Stringtough",NULL,"216","new","Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.","2021-08-11 02:49:15",NULL
+"81","Zoolab",NULL,"174","active",NULL,"2021-07-18 19:35:14","2021-07-21 19:35:14"
+"82","Prodder","http://dummyimage.com/1640x856.png/ff4444/ffffff","157","new",NULL,"2021-08-22 12:02:18",NULL
+"83","Viva",NULL,"152","new","Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.","2021-07-01 10:04:28",NULL
+"84","Prodder",NULL,"34","blocked",NULL,"2021-08-03 03:11:16","2021-08-05 03:11:16"
+"85","Tres-Zap",NULL,"124","new","Vestibulum ac est lacinia nisi venenatis tristique.","2021-08-09 12:20:51",NULL
+"86","Y-find","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","127","blocked","Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.","2021-07-21 03:29:42","2021-07-22 03:29:42"
+"87","Tres-Zap",NULL,"48","new","Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.","2021-07-15 23:31:31",NULL
+"88","Quo Lux",NULL,"16","approved","In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio.","2021-07-10 15:31:11","2021-07-15 15:31:11"
+"89","Zathin",NULL,"123","blocked",NULL,"2021-08-13 13:58:08","2021-08-15 13:58:08"
+"90","Konklab",NULL,"40","approved","Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.","2021-07-20 09:55:58","2021-07-22 09:55:58"
+"91","Keylex",NULL,"192","approved",NULL,"2021-07-11 09:21:58","2021-07-12 09:21:58"
+"92","Mat Lam Tam",NULL,"48","blocked","Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.","2021-07-09 17:49:19","2021-07-14 17:49:19"
+"93","Kanlam","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","160","new","Donec ut dolor.","2021-08-06 14:42:03",NULL
+"94","Biodex",NULL,"95","approved","Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.","2021-07-17 23:41:27","2021-07-18 23:41:27"
+"95","Tempsoft",NULL,"44","active","Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.","2021-07-17 20:53:08","2021-07-22 20:53:08"
+"96","Temp","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","45","approved","Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.","2021-08-09 22:44:13","2021-08-13 22:44:13"
+"97","Home Ing","http://dummyimage.com/1640x856.png/5fa2dd/ffffff","153","active",NULL,"2021-08-04 22:22:24","2021-08-07 22:22:24"
+"98","Gembucket",NULL,"279","new","Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.","2021-07-20 05:44:39",NULL
+"99","Aerified",NULL,"244","blocked","Aenean sit amet justo. Morbi ut odio.","2021-07-24 23:33:38","2021-07-29 23:33:38"
+"100","Flowdesk",NULL,"65","new",NULL,"2021-07-13 19:36:50",NULL
